@@ -14,7 +14,8 @@ SQL queries were used to extract insights on **revenue, top products, and custom
 5. [Insights & Recommendations](#-insights--recommendations)
 6. [Limitations](#-limitations)
 7. [Next Steps & Decisions](#-next-steps--decisions)
-8. [Dataset](#-dataset)
+8. [Code](#-code)
+9. [Dataset](#-dataset)
 
 ---
 
@@ -75,9 +76,13 @@ These findings help identify growth opportunities and optimize customer engageme
 - Apply **predictive modeling** for monthly revenue forecasting.  
 - Build a **dashboard in Power BI/Tableau** for real-time monitoring.  
 
+---
+
+## 📊 Code
+*(https://github.com/Omar-Ahmed-Kandel/Task-3/blob/main/Code.sql)*  
 
 ---
 
 ## 📂 Dataset
-- Chinook Database: [Chinook SQL Database](https://github.com/Omar-Ahmed-Kandel/Task-3/blob/main/chinook.db)  
+- Chinook Database: [Chinook SQL Database](https://github.com/lerocha/chinook-database)  
 
